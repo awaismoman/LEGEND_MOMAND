@@ -418,7 +418,6 @@ header = {
     'x-fb-connection-type': 'unknown',
     'content-type': 'application/x-www-form-urlencoded',
     'x-fb-http-engine': 'Liger' }
-logo =  033[1;91m   ###    ##      ##    ###    ####  ######  
 \033[1;92m  ## ##   ##  ##  ##   ## ##    ##  ##    ## 
 \033[1;93m ##   ##  ##  ##  ##  ##   ##   ##  ##       
 \033[1;94m##     ## ##  ##  ## ##     ##  ##   ######  
