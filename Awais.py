@@ -418,12 +418,6 @@ header = {
     'x-fb-connection-type': 'unknown',
     'content-type': 'application/x-www-form-urlencoded',
     'x-fb-http-engine': 'Liger' }
-\033[1;92m  ## ##   ##  ##  ##   ## ##    ##  ##    ## 
-\033[1;93m ##   ##  ##  ##  ##  ##   ##   ##  ##       
-\033[1;94m##     ## ##  ##  ## ##     ##  ##   ######  
-\033[1;95m######### ##  ##  ## #########  ##        ## 
-\033[1;96m##     ## ##  ##  ## ##     ##  ##  ##    ## 
-\033[1;97m##     ##  ###  ###  ##     ## ####  ######  
   ##\n\x1b[1;91m-----------------------------------------------\n\x1b[1;93m{~} \x1b[0;92mAUTHOR > \x1b[1;96mAWAIS KHAN\n\x1b[1;92m{~} \x1b[0;95mFACEBOOK > \x1b[1;94m\xe2\x80\x8e\xe2\x80\x8eAWAIS KHAN(AWAIS MOMAND)\n\x1b[1;94m{~} \x1b[0;96mYOU TUBE > \x1b[1;91mMOMAND TRICKS\n\x1b[1;91m-----------------------------------------------'
 
 def main():
